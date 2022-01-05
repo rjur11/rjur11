@@ -21,4 +21,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+
+[![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjur11&show_icons=true&theme=dracula)](https://github.com/rjur11/github-readme-stats)
+
 - 📫 Want to reach out? Check out my [LinkedIn](https://www.linkedin.com/in/rana-jurjus/)!
